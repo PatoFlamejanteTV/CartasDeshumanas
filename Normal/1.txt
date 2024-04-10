@@ -1,1 +1,1 @@
-["Eu quando defeco", "Saia daqui caso goste", "Saia daqui caso odeie", "Se você gosta de", "Eu amo", "Eu odeio", "Sinceramente, eu amo", "Sinceramente, eu odeio", "Eu almoço assistindo", "Eu acabei de comer", "Eu gosto de arroz, feijão e"]
+["Eu quando defeco eu amo", "Saia daqui caso goste de", "Saia daqui caso não goste de", "Se você gosta de", "Eu amo", "Eu odeio", "Sinceramente, eu amo", "Sinceramente, eu odeio", "Eu almoço assistindo", "Eu acabei de comer", "Eu gosto de arroz, feijão e"]
